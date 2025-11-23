@@ -129,11 +129,14 @@
                                 <div class="form-floating">
                                     <select class="form-control" id="product" required>
                                         <option value="">Select Product</option>
-                                        <option value="feldspar">Feldspar</option>
-                                        <option value="mica">Mica</option>
-                                        <option value="quartz">Quartz</option>
-                                        <option value="limestone">Limestone</option>
-                                        <option value="other">Other</option>
+                                        <option value="quick_lime_powder">Quick Lime Powder</option>
+                                        <option value="anti_moisture_powder">Anti Moisture Powder</option>
+                                        <option value="micronised_calcite_powder">Micronised Calcite Powder</option>
+                                        <option value="micronised_dolomite_powder">Micronised Dolomite Powder</option>
+                                        <option value="talc_powder">Talc Powder</option>
+                                        <option value="dolomite_granules">Dolomite Granules</option>
+                                        <option value="soapstone_and_talc_powder">Soapstone and Talc Powder</option>
+                                        <option value="pyrophyllite_powder">Pyrophyllite Powder</option>
                                     </select>
                                     <label for="product">Product Interest</label>
                                 </div>
