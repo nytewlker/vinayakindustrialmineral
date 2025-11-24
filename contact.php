@@ -143,15 +143,8 @@
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating">
-                                    <select class="form-control" id="inquiry_type" required>
-                                        <option value="">Select Inquiry Type</option>
-                                        <option value="quotation">Price Quotation</option>
-                                        <option value="bulk_order">Bulk Order</option>
-                                        <option value="partnership">Partnership</option>
-                                        <option value="support">Customer Support</option>
-                                        <option value="other">Other</option>
-                                    </select>
-                                    <label for="inquiry_type">Inquiry Type</label>
+                                    <input type="text" class="form-control" id="subject" placeholder="Subject" required>
+                                    <label for="subject">Subject</label>
                                 </div>
                             </div>
                             <div class="col-12">
@@ -163,7 +156,7 @@
                             <div class="col-12">
                                 <div class="form-floating">
                                     <textarea class="form-control" placeholder="Leave a message here" id="message"
-                                        style="height: 150px" required></textarea>
+                                        style="height: 100px" required></textarea>
                                     <label for="message">Message</label>
                                 </div>
                             </div>

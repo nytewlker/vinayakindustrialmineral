@@ -64,9 +64,9 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top py-0 pe-5">
         <a href="index1.php" class="navbar-brand ps-5 me-0">
-            <h1 class="text-white m-0">VINAYAK INDUSTRIAL</h1>
+            <h1 class="text-white m-0" style="line-height: 32px;">VINAYAK <br> INDUSTRIAL</h1>
             <br>
-            <span class="text-white" style="margin-bottom: -12px;">MINERAL</span>
+            <span class="text-white" style="margin-bottom: -45px; line-height: 0;">MINERAL</span>
         </a>
         <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
