@@ -83,11 +83,13 @@
                     </p>
                     <div class="d-flex align-items-center mb-4">
                         <div class="flex-shrink-0 bg-primary p-4">
-                            <h1 class="display-2">26</h1>
+                            <h1 class="display-2">40</h1>
                             <h5 class="text-white">Years of</h5>
                             <h5 class="text-white">Experience</h5>
                         </div>
                         <div class="ms-4">
+                            <p><i class="fa fa-check text-primary me-2"></i>Plastic & Rubber Industry</p>
+                            <p><i class="fa fa-check text-primary me-2"></i>Paper Industry</p>
                             <p><i class="fa fa-check text-primary me-2"></i>Ceramic & Tile Industry</p>
                             <p><i class="fa fa-check text-primary me-2"></i>Construction & Infrastructure</p>
                             <p><i class="fa fa-check text-primary me-2"></i>Glass & Foundry Applications</p>
@@ -111,7 +113,7 @@
             <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.1s">
                 <div class="text-center border p-5">
                     <i class="fa fa-certificate fa-3x text-white mb-3"></i>
-                    <h1 class="display-2 text-primary mb-0" data-toggle="counter-up">26</h1>
+                    <h1 class="display-2 text-primary mb-0" data-toggle="counter-up">40</h1>
                     <span class="fs-5 fw-semi-bold text-white">Years Experience</span>
                 </div>
             </div>
@@ -236,6 +238,7 @@
 
     <?php
     $products = [
+        ['image' => 'img/product img/anti-moisture-granuals.jpg', 'title' => 'Anti Moisture Granuals', 'link' => 'product.php?product=anti-moisture-granuals'],
         ['image' => 'img/product img/quick-lime.jpg', 'title' => 'Quick Lime Powder', 'link' => 'product.php?product=quick-lime-powder'],
         ['image' => 'img/product img/anti-moisture.jpg', 'title' => 'Anti Moisture Powder', 'link' => 'product.php?product=anti-moisture-powder'],
         ['image' => 'img/product img/micronise-calcite.jpg', 'title' => 'Micronised Calcite Powder', 'link' => 'product.php?product=micronised-calcite-powder'],

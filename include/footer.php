@@ -4,12 +4,17 @@
         <div class="container py-5">
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
-                    <h5 class="text-white mb-4">Our Office</h5>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>F-266, RIICO Industrial Area, Gudli Teh.
+                    <h5 class="text-white mb-4">Location</h5>
+                    Head Office:<br>
+                    <p class="mb-2">F-266, RIICO Industrial Area, Gudli Teh.
                         Mavli, Udaipur-313024</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+91 - 9352506560</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+91 - 9950675482</p>
-                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>vinayakindmin@gmail.com</p>
+                    Manufacturing Unit:<br>
+                    
+                    <p class="mb-2"> UNIT - I: Plot No. 52-53, RIICO Industrial Area, Gudli Teh.
+                        Mavli, Udaipur-313024</p>
+                    <p class="mb-2">UNIT - II: Plot No. 19-20, RIICO Industrial Area, Gudli Teh.
+                        Mavli, Udaipur-313024</p>
+                   
                     
                 </div>
                 <div class="col-lg-2 col-md-6">
@@ -25,6 +30,7 @@
                     <h5 class="text-white mb-4">Products</h5>
                     <a class="btn btn-link" href="product.php?product=quick-lime-powder">Quick Lime Powder</a>
                     <a class="btn btn-link" href="product.php?product=anti-moisture-powder">Anti Moisture Powder</a>
+                    <a class="btn btn-link" href="product.php?product=anti-moisture-granuals">Anti Moisture Granuals</a>
                     <a class="btn btn-link" href="product.php?product=micronised-calcite-powder">Micronised Calcite Powder</a>
                     <a class="btn btn-link" href="product.php?product=micronised-dolomite-powder">Micronised Dolomite Powder</a>
                     <a class="btn btn-link" href="product.php?product=talc-powder">Talc Powder</a>
@@ -33,7 +39,10 @@
                     <a class="btn btn-link" href="product.php?product=pyrophyllite-powder">Pyrophyllite Powder</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
-                    <h5 class="text-white mb-4">Newsletter</h5>
+                    <h5 class="text-white mb-4">Get In Touch</h5>
+                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+91 - 9784060133</p>
+                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+91 - 9785623555</p>
+                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>vinayakindmin@gmail.com</p>
                     <p>Stay updated. Subscribe now!</p>
                     <div class="position-relative w-100">
                         <input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" type="text"

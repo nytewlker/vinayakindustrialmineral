@@ -89,6 +89,7 @@
                     <div class="dropdown-menu bg-light m-0">
                         <a href="product.php?product=quick-lime-powder" class="dropdown-item">Quick Lime Powder</a>
                         <a href="product.php?product=anti-moisture-powder" class="dropdown-item">Anti Moisture Powder</a>
+                        <a href="product.php?product=anti-moisture-granuals" class="dropdown-item">Anti Moisture Granuals</a>
                         <a href="product.php?product=micronised-calcite-powder" class="dropdown-item">Micronised Calcite Powder</a>
                         <a href="product.php?product=micronised-dolomite-powder" class="dropdown-item">Micronised Dolomite Powder</a>
                         <a href="product.php?product=talc-powder" class="dropdown-item">Talc Powder</a>

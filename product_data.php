@@ -177,6 +177,28 @@ $products = [
         ],
         'image' => 'img/product img/pyrophylite.jpg',
         'packaging' => '50 kg bags, 1000 kg bags'
-    ]
+    ],
+    [
+        'name' => 'Anti Moisture Granuals',
+        'slug' => 'anti-moisture-granuals',
+        'description' => 'High-performance anti-moisture granuals designed to absorb and control humidity in packaging and storage. Durable granule form for easier handling and reduced dust.',
+        'specs' => [
+            'Moisture Absorption' => '120-220%',
+            'Bulk Density' => '0.55-0.75 g/cm³',
+            'Granule Size' => '1-4 mm',
+            'pH' => '7-9',
+            'Shelf Life' => '36 months'
+        ],
+        'applications' => [
+            'Packaging Protection',
+            'Electronics Storage',
+            'Pharmaceuticals',
+            'Food Packaging',
+            'Textiles',
+            'Industrial Warehouses'
+        ],
+        'image' => 'img/product img/anti-moisture-granuals.jpg',
+        'packaging' => '25 kg bags, 500 kg drums, Bulk supply available'
+    ],
 ];
 ?>
