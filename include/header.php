@@ -92,7 +92,7 @@
                         <a href="product.php?product=anti-moisture-granuals" class="dropdown-item">Anti Moisture Granuals</a>
                         <a href="product.php?product=micronised-calcite-powder" class="dropdown-item">Micronised Calcite Powder</a>
                         <a href="product.php?product=micronised-dolomite-powder" class="dropdown-item">Micronised Dolomite Powder</a>
-                        <a href="product.php?product=talc-powder" class="dropdown-item">Talc Powder</a>
+                        <!-- <a href="product.php?product=talc-powder" class="dropdown-item">Talc Powder</a> -->
                         <a href="product.php?product=dolomite-granules" class="dropdown-item">Dolomite Granules</a>
                         <a href="product.php?product=soapstone-talc-powder" class="dropdown-item">Soapstone and Talc Powder</a>
                         <a href="product.php?product=pyrophyllite-powder" class="dropdown-item">Pyrophyllite Powder</a>

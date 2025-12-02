@@ -243,7 +243,7 @@
         ['image' => 'img/product img/anti-moisture.jpg', 'title' => 'Anti Moisture Powder', 'link' => 'product.php?product=anti-moisture-powder'],
         ['image' => 'img/product img/micronise-calcite.jpg', 'title' => 'Micronised Calcite Powder', 'link' => 'product.php?product=micronised-calcite-powder'],
         ['image' => 'img/product img/micronise-dolomite.jpg', 'title' => 'Micronised Dolomite Powder', 'link' => 'product.php?product=micronised-dolomite-powder'],
-        ['image' => 'img/product img/talc.jpg', 'title' => 'Talc Powder', 'link' => 'product.php?product=talc-powder'],
+        // ['image' => 'img/product img/talc.jpg', 'title' => 'Talc Powder', 'link' => 'product.php?product=talc-powder'],
         ['image' => 'img/product img/dolomite-granuls.jpg', 'title' => 'Dolomite Granules', 'link' => 'product.php?product=dolomite-granules'],
         ['image' => 'img/product img/soapstone.jpg', 'title' => 'Soapstone And Talc Powder', 'link' => 'product.php?product=soapstone-talc-powder'],
         ['image' => 'img/product img/pyrophylite.jpg', 'title' => 'Pyrophyllite Powder', 'link' => 'product.php?product=pyrophyllite-powder'],

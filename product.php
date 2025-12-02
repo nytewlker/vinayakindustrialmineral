@@ -717,17 +717,17 @@ if ($product !== null) {
 
                         <div class="contact-item">
                             <strong>Sales Enquiries</strong>
-                            <a href="mailto:sales@vinayakindustrial.com" style="color:#FF5E14;text-decoration:none;">sales@vinayakindustrial.com</a>
+                            <a href="mailto:vinayakindmin@gmail.com" style="color:#FF5E14;text-decoration:none;">vinayakindmin@gmail.com</a>
                         </div>
 
                         <div class="contact-item">
                             <strong>Phone</strong>
-                            <a href="tel:+911234567890" style="color:#02245B;text-decoration:none;">+91 12345 67890</a>
+                            <a href="tel:+919784060133" style="color:#02245B;text-decoration:none;">+91 - 9784060133</a>
                         </div>
 
                         <div class="contact-item">
-                            <strong>Factory / Office</strong>
-                            <div>Plot No. XYZ, Industrial Area, City, State - PIN</div>
+                            <strong>Factory Address</strong>
+                            <div>F-266, RIICO Industrial Area, Gudli, Teh. Mavli, Udaipur – 313024 (Raj). INDIA</div>
                         </div>
 
 
