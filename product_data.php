@@ -5,19 +5,17 @@ $products = [
         'slug' => 'quick-lime-powder',
         'description' => 'High-quality quick lime powder used in various industrial applications. Produced from premium limestone with high calcium content.',
         'specs' => [
-            'Calcium Content' => '85-90%',
+            'Calcium Content' => '88-90%',
             'Density' => '1.2 g/cm³',
-            'Particle Size' => '100-200 mesh',
+            'Particle Size' => 'upto 750 mesh',
             'Moisture' => '< 2%',
             'Purity' => '> 95%'
         ],
         'applications' => [
-            'Water Treatment',
-            'Construction Industry',
-            'Chemical Manufacturing',
+            'Polymer Manufacturing',
             'Metallurgy',
             'Agriculture',
-            'Steel Production'
+            'Plastics Industry'
         ],
         'image' => 'img/product img/quick-lime.jpg',
         'packaging' => '50 kg bags, 1000 kg bags'
@@ -29,17 +27,16 @@ $products = [
         'specs' => [
             'Moisture Absorption' => '200-300%',
             'Density' => '0.8 g/cm³',
-            'Particle Size' => '150-250 mesh',
+            'Particle Size' => '500 mesh',
             'pH' => '8-9',
-            'Shelf Life' => '24 months'
+            'Shelf Life' => '6 months (best before)'
         ],
         'applications' => [
             'Pharmaceutical Packaging',
             'Food Industry',
             'Electronics Storage',
-            'Textiles',
-            'Cosmetics Packaging',
-            'Spice Industry'
+            'Plastics and Polymers',
+            'Rubber Industry'
         ],
         'image' => 'img/product img/anti-moisture.jpg',
         'packaging' => '25 kg bags, 500 kg bags'
@@ -50,9 +47,8 @@ $products = [
         'description' => 'Ultra-fine micronised calcite powder available in both coated and uncoated variants. Perfect for precision industrial applications.',
         'specs' => [
             'CaCO3 Content' => '98-99%',
-            'Brightness' => '> 95%',
-            'Fineness' => '1-10 microns',
-            'Whiteness' => '> 90%',
+            'Fineness' => '8-20 microns',
+            'Whiteness' => '> 99%',
             'Oil Absorption' => '20-25 ml/100g'
         ],
         'applications' => [
@@ -72,11 +68,10 @@ $products = [
         'slug' => 'micronised-dolomite-powder',
         'description' => 'Fine micronised dolomite powder with balanced calcium and magnesium content. Available in coated and uncoated forms.',
         'specs' => [
-            'CaMg(CO3)2' => '97-98%',
-            'MgO Content' => '45-48%',
-            'CaO Content' => '50-53%',
-            'Fineness' => '2-15 microns',
-            'Whiteness' => '88-92%'
+            'CaCO5 Content' => '52-55%',
+            'CaO Content' => '25-22%',
+            'Fineness' => '8-20 microns',
+            'Whiteness' => '92-97%'
         ],
         'applications' => [
             'Refractory Materials',
@@ -95,9 +90,8 @@ $products = [
         'slug' => 'talc-powder',
         'description' => 'Premium quality talc powder with excellent lubrication properties and smooth texture. Ideal for personal care and industrial uses.',
         'specs' => [
-            'Talc Content' => '95-97%',
-            'Particle Size' => '2-10 microns',
-            'Brightness' => '> 92%',
+            'Particle Size' => 'upto 700 mesh',
+            'Brightness' => '> 90-97%',
             'Moisture' => '< 1%',
             'Density' => '2.7 g/cm³'
         ],
